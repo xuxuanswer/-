@@ -1,0 +1,5 @@
+{
+  "name": "NSFC Pilot (自然基金领航员)",
+  "description": "A specialized AI assistant for National Natural Science Foundation of China (NSFC) proposal writing. It acts as a Senior Review Panelist to analyze literature gaps and formulate innovation points.",
+  "requestFramePermissions": []
+}
